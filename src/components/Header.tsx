@@ -9,7 +9,7 @@ const Header = () => {
           <div className="bg-gradient-primary p-1.5 sm:p-2 rounded-lg">
             <Building className="h-5 w-5 sm:h-6 sm:w-6 text-white" />
           </div>
-          <span className="text-lg sm:text-xl font-bold text-foreground">Realty Pro</span>
+          <span className="text-lg sm:text-xl font-bold text-foreground">FindIT</span>
         </div>
         
         <nav className="hidden md:flex items-center space-x-8">

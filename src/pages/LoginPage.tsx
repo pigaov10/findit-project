@@ -25,7 +25,7 @@ export default function LoginPage() {
                 <rect x="55" y="40" width="5" height="5" fill="#D1D5DB"/>
                 <rect x="40" y="50" width="5" height="5" fill="#D1D5DB"/>
                 <rect x="55" y="50" width="5" height="5" fill="#D1D5DB"/>
-                <text x="75" y="55" font-family="Arial, sans-serif" font-size="32" font-weight="600" fill="#1E3A8A">Imogo</text>
+                <text x="75" y="55" font-family="Arial, sans-serif" font-size="32" font-weight="600" fill="#1E3A8A">FindIT</text>
             </svg>
         </div>
         <Card className="p-6 shadow-xl bg-white/90 backdrop-blur-md border border-gray-200 rounded-xl">
